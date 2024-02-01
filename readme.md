@@ -2,7 +2,8 @@ This is an excel add-in that provides many advanced filtering functions and some
 On installation, it creates a new menu toolbar which gives you access to these filter commands and utilities. 
 it also creates keyboard shortcuts which are the best way to interact with these utilities
 
-Shortcuts.
+Shortcuts:
+
 CTRL+SHIFT+P 	Bring up Advanced PowerFilter Dialog. This allows you to paste values to filter on (1 value one each line)
 
 CTRL+SHIFT+A	Filter on value in current Cell
